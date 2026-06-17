@@ -60,3 +60,4 @@ resource "azurerm_linux_virtual_machine" "vm_test" {
     version   = "latest"
   }
 }
+
